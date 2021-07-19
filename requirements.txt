@@ -12,6 +12,7 @@ flasgger==0.9.4
 streamlit
 Pillow
 opencv-contrib-python-headless
+tensorflow-cpu==2.5.0
 
 
 
